@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+/* NAV */
+
+nav a{
+    margin: 50px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+/* MAIN 1 */
+
+#main-1, #main-2, #main-3, footer {
+    width: 800px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+#main-1 p, ul, ol {
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+/* MAIN 2 + TABLE */
+
+#main-2 table {
+    margin-bottom: 10px;
+}
+
+#p-table {
+    text-align: left;
+}
+
+table {
+    margin: 0 auto;
+    border: 3px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+/* FOOTER */
+
+footer input {
+    display: block;
+    margin: 0 auto;
+}
